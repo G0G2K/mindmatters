@@ -1,0 +1,13 @@
+/* profile */
+.profile-img{
+  height: 108px;
+}
+.post-image-t{
+  height: 90px;
+}
+.post-image{
+  max-height: 36vh;
+}
+.home-post-img{
+  height: 90px;
+}
